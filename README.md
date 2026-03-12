@@ -25,7 +25,7 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Clasificador binario para identificar siniestros sospechosos.
 - **Tecnologías:** CatBoost, manejo de datos desbalanceados, Python.
 - **Resultado:** Captura del 77% de los fraudes analizando solo el 30% de los casos.
-- [📂 Ver Notebook del Proyecto](Colab/Fraud detection in car insurance claims.ipynb) | [📊 Ver Presentación](./Fraud_detection_in_insurance_claims.pptx)
+- [📂 Ver Notebook del Proyecto](./Colab/Fraud detection in car insurance claims.ipynb) | [📊 Ver Presentación](./Fraud_detection_in_insurance_claims.pptx)
 
 ---
 
