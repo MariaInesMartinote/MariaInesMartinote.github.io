@@ -12,7 +12,7 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Modelo de regresión entrenado con 550k registros (Web Scraping). 
 - **Tecnologías:** Python, Scikit-Learn, Optuna (Hyperparameter Tuning).
 - **Resultado:** R² de 0.80 con Random Forest optimizado.
-- [📊 Ver Proyecto Interactivo](./Prediccin%20de%20precios%20de%20apartamentos%20en%20Uruguay.html) | [📑 Ver Presentación en PDF](./Proyecto%20de%20aptos.pptx.pdf)
+- [📂 Ver Notebook del Proyecto](./Colab/Proyecto%20de%20Apto.ipynb) | [📑 Ver Presentación en PDF](./Prediccin%20de%20precios%20de%20apartamentos%20en%20Uruguay/Proyecto%20de%20aptos.pdf)
 
 ---
 
@@ -23,7 +23,7 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Clasificador binario para identificar siniestros sospechosos.
 - **Tecnologías:** CatBoost, manejo de datos desbalanceados, Python.
 - **Resultado:** Captura del 77% de los fraudes analizando solo el 30% de los casos.
-- [📊 Ver Proyecto Interactivo](./Fraud%20detection%20in%20car%20insurance%20claims.html) | [📑 Ver Presentación en PDF](./Fraud%20detection%20in%20insurance%20claims.pptx.pdf)
+- [📂 Ver Notebook del Proyecto](./Colab/Fraud%20detection%20in%20car%20insurance%20claims.ipynb) | [📑 Ver Presentación en PDF](./Fraud%20detection%20in%20car%20insurance%20claims/Fraud%20detection%20in%20insurance%20claims.pptx.pdf)
 
 ---
 
@@ -34,12 +34,11 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Modelo de lenguaje avanzado que entiende la intención del mensaje.
 - **Tecnologías:** Deep Learning, Transformers (DistilBERT), Hugging Face.
 - **Resultado:** Pérdida (Loss) < 0.04 y detección casi perfecta de amenazas.
-- [📊 Ver Proyecto Interactivo](./BankShield%20Deteccin%20de%20phishing%20bancario.html) | [📑 Ver Presentación en PDF](./BankShield_%20Phishing%20Detection.pptx.pdf)
+- [📂 Ver Notebook del Proyecto](./BankShield_Detecci%C3%B3n_de_Phishing_Bancario_con_Deep_Learning_ipynb.ipynb) | [📑 Ver Presentación en PDF](./BankShield%20%20Deteccin%20de%20phishing%20bancario/BankShield_%20Phishing%20Detection.pptx.pdf)
 
 ---
 
 ### 🛠️ Skills Técnicas
 * **Lenguajes:** Python (Pandas, Numpy, PyTorch).
 * **Modelado:** Regresión, Clasificación, NLP, Clustering.
-* **Herramientas:** Git, GitHub, Google Colab, Optuna.
 * **Herramientas:** Git, GitHub, Google Colab, Optuna.
