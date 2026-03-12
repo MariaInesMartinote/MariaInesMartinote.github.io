@@ -1,5 +1,3 @@
-# MariaInesMartinote.github.io
-
 # 🚀 Portafolio: Ciencia de Datos e Inteligencia Artificial
 ### Especialización ECDIA - UTEC | Por: María Inés Martinote
 
@@ -14,7 +12,7 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Modelo de regresión entrenado con 550k registros (Web Scraping). 
 - **Tecnologías:** Python, Scikit-Learn, Optuna (Hyperparameter Tuning).
 - **Resultado:** R² de 0.80 con Random Forest optimizado.
-- [📂 Ver Notebook del Proyecto](./Proyecto_de_APTO.ipynb) | [📊 Ver Presentación](./Proyecto_de_aptos.pptx)
+- [📊 Ver Proyecto Interactivo](./Prediccin%20de%20precios%20de%20apartamentos%20en%20Uruguay.html) | [📑 Ver Presentación en PDF](./Proyecto%20de%20aptos.pptx.pdf)
 
 ---
 
@@ -25,17 +23,8 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Clasificador binario para identificar siniestros sospechosos.
 - **Tecnologías:** CatBoost, manejo de datos desbalanceados, Python.
 - **Resultado:** Captura del 77% de los fraudes analizando solo el 30% de los casos.
-- <div class="card">
-    <div class="card-content">
-        <span class="tag">Análisis de Fraude</span>
-        <h3>🚗 Fraud Detection (Insurance)</h3>
-        <p>Identificación de reclamos fraudulentos en seguros automotores utilizando algoritmos de Boosting (CatBoost).</p>
-    </div>
-    <div class="btn-group">
-        <a href="./Colab/Fraud%20detection%20in%20car%20insurance%20claims.ipynb" class="btn btn-main" target="_blank"><i class="fas fa-chart-bar"></i> Notebook</a>
-        <a href="./Fraud%20detection%20in%20car%20insurance%20claims/Fraud%20detection%20in%20insurance%20claims%20(3).pptx" class="btn btn-sub"><i class="fas fa-file-powerpoint"></i> PPT</a>
-    </div>
-</div>
+- [📊 Ver Proyecto Interactivo](./Fraud%20detection%20in%20car%20insurance%20claims.html) | [📑 Ver Presentación en PDF](./Fraud%20detection%20in%20insurance%20claims.pptx.pdf)
+
 ---
 
 ## 🛡️ 3. BankShield: Detección de Phishing con Deep Learning
@@ -45,11 +34,12 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Modelo de lenguaje avanzado que entiende la intención del mensaje.
 - **Tecnologías:** Deep Learning, Transformers (DistilBERT), Hugging Face.
 - **Resultado:** Pérdida (Loss) < 0.04 y detección casi perfecta de amenazas.
-- [📂 Ver Notebook del Proyecto](./BankShield_Phishing_Detection.ipynb) | [📊 Ver Presentación](./BankShield_Phishing_Detection.pptx)
+- [📊 Ver Proyecto Interactivo](./BankShield%20Deteccin%20de%20phishing%20bancario.html) | [📑 Ver Presentación en PDF](./BankShield_%20Phishing%20Detection.pptx.pdf)
 
 ---
 
 ### 🛠️ Skills Técnicas
 * **Lenguajes:** Python (Pandas, Numpy, PyTorch).
 * **Modelado:** Regresión, Clasificación, NLP, Clustering.
+* **Herramientas:** Git, GitHub, Google Colab, Optuna.
 * **Herramientas:** Git, GitHub, Google Colab, Optuna.
