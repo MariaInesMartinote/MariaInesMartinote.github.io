@@ -31,7 +31,7 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Modelo de lenguaje avanzado que entiende la intención del mensaje.
 - **Tecnologías:** Deep Learning, Transformers (DistilBERT), Hugging Face.
 - **Resultado:** Pérdida (Loss) < 0.04 y detección casi perfecta de amenazas.
-- [📂 Ver Notebook del Proyecto](./BankShield_Detecci%C3%B3n_de_Phishing_Bancario_con_Deep_Learning_ipynb.ipynb) | [📑 Ver Presentación en PDF](./BankShield%20%20Deteccin%20de%20phishing%20bancario/BankShield_%20Phishing%20Detection.pptx.pdf)
+- [📂 Ver Notebook del Proyecto](./Colab/BankShield_Detecci%C3%B3n_de_Phishing_Bancario_con_Deep_Learning_ipynb.ipynb) | [📑 Ver Presentación en PDF](./BankShield%20%20Deteccin%20de%20phishing%20bancario/BankShield_%20Phishing%20Detection.pptx.pdf)
 
 ---
 
