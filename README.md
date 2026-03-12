@@ -25,8 +25,17 @@ Bienvenido a mi portafolio técnico. Aquí presento los proyectos más destacado
 **Solución:** Clasificador binario para identificar siniestros sospechosos.
 - **Tecnologías:** CatBoost, manejo de datos desbalanceados, Python.
 - **Resultado:** Captura del 77% de los fraudes analizando solo el 30% de los casos.
-- [📂 Ver Notebook del Proyecto](./Colab/Fraud detection in car insurance claims.ipynb) | [📊 Ver Presentación](./Fraud detection in car insurance claims/Fraud detection in insurance claims (3).pptx)
-
+- <div class="card">
+    <div class="card-content">
+        <span class="tag">Análisis de Fraude</span>
+        <h3>🚗 Fraud Detection (Insurance)</h3>
+        <p>Identificación de reclamos fraudulentos en seguros automotores utilizando algoritmos de Boosting (CatBoost).</p>
+    </div>
+    <div class="btn-group">
+        <a href="./Colab/Fraud%20detection%20in%20car%20insurance%20claims.ipynb" class="btn btn-main" target="_blank"><i class="fas fa-chart-bar"></i> Notebook</a>
+        <a href="./Fraud%20detection%20in%20car%20insurance%20claims/Fraud%20detection%20in%20insurance%20claims%20(3).pptx" class="btn btn-sub"><i class="fas fa-file-powerpoint"></i> PPT</a>
+    </div>
+</div>
 ---
 
 ## 🛡️ 3. BankShield: Detección de Phishing con Deep Learning
